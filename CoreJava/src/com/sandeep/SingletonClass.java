@@ -1,3 +1,4 @@
+// Sample code for singleton class
 package com.sandeep;
 
 public class SingletonClass {
