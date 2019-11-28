@@ -1,4 +1,4 @@
-// Sample code for singleton class
+// Sample code for creating singleton class
 package com.sandeep;
 
 public class SingletonClass {
