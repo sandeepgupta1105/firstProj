@@ -10,7 +10,7 @@ public class DoubleEqualAndEquals {
 		String s1 = new String("Sandeep"); // this will create object in Heap memory
 		String s2 = new String("Sandeep");
 //		s2=s1;
-		System.out.println("Sandeep Gupta");
+		System.out.println("Sandeep Gupta one");
 		System.out.println(s1 == s2);
 		System.out.println(s1.equals(s2));
 		
